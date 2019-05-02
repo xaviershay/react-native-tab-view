@@ -30,6 +30,14 @@ export default class ScrollableTabBarExample extends React.Component<*, State> {
       { key: 'contacts', title: 'Contacts' },
       { key: 'albums', title: 'Albums' },
       { key: 'chat', title: 'Chat' },
+      { key: 'chat2', title: 'Chat' },
+      { key: 'chat3', title: 'Chat' },
+      { key: 'chat4', title: 'Chat' },
+      { key: 'chat5', title: 'Chat' },
+      { key: 'chat6', title: 'Chat' },
+      { key: 'chat7', title: 'Chat' },
+      { key: 'chat8', title: 'Chat' },
+      { key: 'chat9', title: 'Chat' },
     ],
   };
 
@@ -54,6 +62,14 @@ export default class ScrollableTabBarExample extends React.Component<*, State> {
     contacts: Contacts,
     article: Article,
     chat: Chat,
+    chat2: Chat,
+    chat3: Chat,
+    chat4: Chat,
+    chat5: Chat,
+    chat6: Chat,
+    chat7: Chat,
+    chat8: Chat,
+    chat9: Chat,
   });
 
   render() {
